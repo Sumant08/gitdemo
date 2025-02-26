@@ -1,2 +1,6 @@
+
 added some different content in feature-B branch
 added some more and more content to file1.txt in feature-B
+=======
+content added to feature-A to file1
+
